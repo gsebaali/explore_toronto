@@ -13,6 +13,12 @@ __Data Source:__
 - Geocoders API for Toronto neighboorhoods' geo-coordinates
 - [Foursquare API](https://foursquare.com) for top 10 trending venues in each neighborhood
 
+__Python Packages:__
+- Arrays and data structures (pandas, geopandas and numpy)
+- Web scraping (requests, urllib.request, json geopy)
+- Machine Learning (sklearn)
+- Visualization (folium)
+
 
 
 
